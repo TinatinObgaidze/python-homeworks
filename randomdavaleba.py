@@ -51,7 +51,7 @@ print(random_sia)
 namravli = 1
 for el in range(random_sia[0],random_sia[1]):
     namravli *= el
-# print(namravli)
+print(namravli)
 
 # #5 ask user to enter the number; count and print the sum of the digits of the number:
 
