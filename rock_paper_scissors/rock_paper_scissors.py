@@ -33,4 +33,4 @@ if you > computer:
 elif you == computer:
     print("Draw")
 else:
-    print("You lost")
+    print("You lose")
